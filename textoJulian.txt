@@ -1,1 +1,2 @@
 texto 2
+updateding associated to issue #1
